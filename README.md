@@ -9,40 +9,9 @@ Open to **remote contracts worldwide**
 
 ## About Me
 
-I’m a software engineer with **10+ years of experience** building production-ready systems for finance, CI/CD, AI platforms, video processing, and developer tools.
+I’m a senior software engineer with **10+ years of experience** building production-ready systems for finance, CI/CD, AI platforms, video processing, and developer tools.
 
 I care about clean architecture, reliable code, strong testing, and practical engineering decisions.
-
----
-
-## What I Work On
-
-- Backend systems and APIs
-- AI and LLM applications
-- Cloud-based platforms
-- Distributed systems
-- Developer tooling
-- Data pipelines and telemetry
-- Code review and debugging
-
----
-
-## Tech Stack
-
-### Languages
-`Python` `TypeScript` `JavaScript` `C#` `Java` `Go` `Rust` `C++`
-
-### Backend
-`FastAPI` `Django` `Flask` `Node.js` `NestJS` `Express` `Spring Boot` `REST` `GraphQL`
-
-### AI / LLM
-`OpenAI` `Claude` `Gemini` `Llama` `LangChain` `RAG` `Vector Search` `Embeddings`
-
-### Databases
-`PostgreSQL` `MySQL` `MongoDB` `Redis` `DynamoDB` `Cosmos DB` `PGVector`
-
-### Cloud & DevOps
-`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `CI/CD`
 
 ---
 
