@@ -1,83 +1,74 @@
 # Hi 👋
 
 **Senior Software Engineer · AI Engineer**  
-Building scalable backends, AI-powered systems, developer tooling, and production-ready APIs.
+I build reliable backend systems, scalable APIs, and AI-powered software.
 
-I'm a software engineer with 10+ years of experience designing distributed systems, backend platforms, cloud infrastructure, and AI-enabled applications. I specialize in scalable APIs, data-intensive services, code review, debugging complex production issues, and evaluating LLM-powered systems.
-
-Open to remote contracts worldwide.
+Open to **remote contracts worldwide**
 
 ---
 
-## 🚀 What I Do
+## About Me
 
-- Build scalable backend systems and APIs
-- Design distributed, cloud-native architectures
-- Develop AI/LLM-powered applications and developer tools
-- Review code for correctness, reliability, and maintainability
-- Debug complex system behavior and production failure modes
-- Build data pipelines, telemetry systems, and automation platforms
-- Work effectively with remote, async, globally distributed teams
+I’m a software engineer with **10+ years of experience** building production-ready systems for finance, CI/CD, AI platforms, video processing, and developer tools.
+
+I care about clean architecture, reliable code, strong testing, and practical engineering decisions.
 
 ---
 
-## 🧠 AI & LLM Engineering
+## What I Work On
 
-I work with LLM applications across evaluation, retrieval, prompt design, and backend integration.
-
-**Focus areas:**
-
-- LLM evaluation and response quality analysis
-- RAG and Graph RAG systems
-- Embeddings and vector search
-- AI-assisted developer tooling
-- Prompt engineering
-- Fine-tuning and inference optimization
-- Model failure mode analysis
-- OpenAI, Claude, Gemini, Llama, LangChain, LangGraph, and LlamaIndex
+- Backend systems and APIs
+- AI and LLM applications
+- Cloud-based platforms
+- Distributed systems
+- Developer tooling
+- Data pipelines and telemetry
+- Code review and debugging
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
-`Python` · `TypeScript` · `JavaScript` · `C#` · `.NET` · `Java` · `C/C++` · `Rust` · `Go`
+`Python` `TypeScript` `JavaScript` `C#` `Java` `Go` `Rust` `C++`
 
 ### Backend
-`FastAPI` · `Flask` · `Django` · `Node.js` · `Express` · `NestJS` · `Spring Boot` · `GraphQL` · `REST APIs` · `OpenAPI`
+`FastAPI` `Django` `Flask` `Node.js` `NestJS` `Express` `Spring Boot` `REST` `GraphQL`
 
 ### AI / LLM
-`OpenAI API` · `Claude API` · `Gemini` · `Llama` · `LangChain` · `LangGraph` · `LlamaIndex` · `RAG` · `Vector Search` · `Fine-tuning`
+`OpenAI` `Claude` `Gemini` `Llama` `LangChain` `RAG` `Vector Search` `Embeddings`
 
 ### Databases
-`PostgreSQL` · `MySQL` · `MongoDB` · `DynamoDB` · `Cosmos DB` · `Redis` · `PGVector` · `Pinecone` · `Supabase`
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `DynamoDB` `Cosmos DB` `PGVector`
 
 ### Cloud & DevOps
-`AWS` · `Azure` · `GCP` · `Docker` · `Kubernetes` · `Terraform` · `GitHub Actions` · `GitLab CI` · `Kafka` · `Spark` · `Flink`
-
-### Testing & Quality
-`pytest` · `Unit Testing` · `Integration Testing` · `Contract Testing` · `Property-Based Testing` · `Code Review` · `Test Automation`
+`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `CI/CD`
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
-- Built scalable backend systems for enterprise finance, CI/CD, AI, blockchain gaming, and video telemetry platforms
-- Developed microservices processing high-volume application workflows and improved operational efficiency through optimization
-- Created cloud-based video editing and telemetry visualization systems using GPS metadata from GoPro, Insta360, and mobile devices
-- Built AI-driven backend systems and APIs for enterprise platforms
-- Developed backend services for large-scale CI/CD infrastructure requiring high throughput and fault tolerance
-- Designed robust APIs with strong testing, monitoring, and deployment practices
+- Built scalable APIs and backend services for enterprise platforms
+- Improved performance and reliability in production systems
+- Worked on high-throughput CI/CD infrastructure
+- Developed AI-driven backend systems and developer tools
+- Built video processing and telemetry visualization platforms
+- Reviewed code and debugged complex production issues across distributed teams
 
 ---
 
-## 📌 Current Interests
+## Current Focus
 
-- AI agents and LLM-powered engineering workflows
-- Retrieval-augmented generation systems
-- Backend architecture for AI products
-- Reliable distributed systems
+- AI-powered applications
+- Reliable backend architecture
+- LLM evaluation and RAG systems
+- Cloud-native software
 - Developer productivity tools
-- High-quality code review and automated evaluation systems
 
 ---
+
+## Contact
+
+Open to remote software engineering and AI engineering contracts.
+
+```
