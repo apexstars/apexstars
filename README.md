@@ -5,7 +5,7 @@ Building scalable backends, AI-powered systems, developer tooling, and productio
 
 I'm a software engineer with 10+ years of experience designing distributed systems, backend platforms, cloud infrastructure, and AI-enabled applications. I specialize in scalable APIs, data-intensive services, code review, debugging complex production issues, and evaluating LLM-powered systems.
 
-Based in **Québec, Canada** · Open to remote contracts worldwide.
+Open to remote contracts worldwide.
 
 ---
 
@@ -81,9 +81,3 @@ I work with LLM applications across evaluation, retrieval, prompt design, and ba
 - High-quality code review and automated evaluation systems
 
 ---
-
-## 📫 Connect
-
-- Location: Côte Saint-Luc, Québec, Canada
-- Open to: Remote software engineering and AI engineering contracts
-- GitHub: You're already here 🙂
