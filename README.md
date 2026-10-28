@@ -1,43 +1,27 @@
-# Hi 👋
+# Senior Software Engineer · AI Engineer
 
-**Senior Software Engineer · AI Engineer**  
-I build reliable backend systems, scalable APIs, and AI-powered software.
+I build backend systems, APIs, and AI-powered tools. I have **10+ years of experience** across finance, CI/CD infrastructure, AI platforms, video processing, and developer tools.
 
-Open to **remote contracts worldwide**
+## Selected projects
 
----
+- **[go-job-queue](https://github.com/apexstars/go-job-queue)**  
+  A Go job queue with priority scheduling, write-ahead logging, worker leases, retries, and a live monitoring dashboard.
 
-## About Me
+- **[llm-eval-harness](https://github.com/apexstars/llm-eval-harness)**  
+  A Python toolkit for YAML-defined LLM evaluations, pluggable scorers, HTML reports, and regression checks for CI.
 
-I’m a senior software engineer with **10+ years of experience** building production-ready systems for finance, CI/CD, AI platforms, video processing, and developer tools.
+- **[rag-docs-assistant](https://github.com/apexstars/rag-docs-assistant)**  
+  A FastAPI document assistant with hybrid BM25 and vector retrieval, streaming answers, source citations, and an offline demo.
 
-I care about clean architecture, reliable code, strong testing, and practical engineering decisions.
+- **[taskboard](https://github.com/apexstars/taskboard)**  
+  A TypeScript Kanban app built with React, Express, and SQLite, featuring optimistic updates, board permissions, and activity history.
 
----
+## Engineering approach
 
-## Experience Highlights
+I care about clear architecture, reliable code, strong testing, and practical engineering decisions. My project READMEs cover setup, architecture, testing, and the trade-offs behind the implementation.
 
-- Built scalable APIs and backend services for enterprise platforms
-- Improved performance and reliability in production systems
-- Worked on high-throughput CI/CD infrastructure
-- Developed AI-driven backend systems and developer tools
-- Built video processing and telemetry visualization platforms
-- Reviewed code and debugged complex production issues across distributed teams
+My current focus is backend reliability, LLM evaluation, retrieval-augmented generation, and developer productivity.
 
----
+## Availability
 
-## Current Focus
-
-- AI-powered applications
-- Reliable backend architecture
-- LLM evaluation and RAG systems
-- Cloud-native software
-- Developer productivity tools
-
----
-
-## Contact
-
-Open to remote software engineering and AI engineering contracts.
-
-```
+Open to **remote software engineering and AI engineering contracts worldwide**.
